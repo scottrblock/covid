@@ -1,6 +1,5 @@
 require 'uri'
 require 'net/http'
-require 'pry'
 require 'csv'
 require 'json'
 
